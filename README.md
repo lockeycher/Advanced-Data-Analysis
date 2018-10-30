@@ -1,6 +1,6 @@
 # Advanced-Data-Analysis
 
-CSC 424: Advanced Data Analysis
+<b>CSC 424</b>: Advanced Data Analysis
 The course teached advanced statistical techniques to discover information from large sets of data. 
 The course topics include visualization techniques to summarize and display high dimensional data, 
 dimensional reduction techniques such as principal component analysis and factor analysis, clustering techniques 
